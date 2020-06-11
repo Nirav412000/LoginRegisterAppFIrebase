@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "32460686380",
+    "firebase_url": "https://stroringapp2.firebaseio.com",
+    "project_id": "stroringapp2",
+    "storage_bucket": "stroringapp2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32460686380:android:d6198d650e6afebdbabd89",
+        "android_client_info": {
+          "package_name": "com.example.stroringapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32460686380-61n73e7329rbfur27d4hvu963b982e31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stroringapp2",
+            "certificate_hash": "9fd399db057d9447cb73511687aa6b8f6621aa91"
+          }
+        },
+        {
+          "client_id": "32460686380-jq09216u0gum1r10ee1mc5bbim32e8b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMt4YabZ4rDIZtMbhOKxqWLljr3_YKuvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32460686380-jq09216u0gum1r10ee1mc5bbim32e8b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
